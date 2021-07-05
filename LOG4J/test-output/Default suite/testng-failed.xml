@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.cjc.MercuryTours">
+        <methods>
+          <include name="m7"/>
+          <include name="m8"/>
+          <include name="m9"/>
+          <include name="m1"/>
+          <include name="m2"/>
+          <include name="m3"/>
+          <include name="m4"/>
+          <include name="m5"/>
+        </methods>
+      </class> <!-- com.cjc.MercuryTours -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

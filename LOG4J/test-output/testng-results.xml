@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-12T15:44:49 IST" name="Default suite" finished-at="2021-04-12T15:45:04 IST" duration-ms="14906">
+    <groups>
+    </groups>
+    <test started-at="2021-04-12T15:44:49 IST" name="Default test" finished-at="2021-04-12T15:45:04 IST" duration-ms="14906">
+      <class name="com.cjc.MercuryTours">
+        <test-method is-config="true" signature="m1()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:44:40 IST" name="m1" finished-at="2021-04-12T15:44:49 IST" duration-ms="9109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="m2()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:44:49 IST" name="m2" finished-at="2021-04-12T15:44:58 IST" duration-ms="9458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:44:58 IST" name="m3" finished-at="2021-04-12T15:44:59 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method is-config="true" signature="m4()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:44:59 IST" name="m4" finished-at="2021-04-12T15:44:59 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method signature="m5(java.lang.String, java.lang.String)[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:44:59 IST" name="m5" data-provider="getdata" finished-at="2021-04-12T15:45:04 IST" duration-ms="4302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akshay@12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akshay@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method is-config="true" signature="m7()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:45:04 IST" name="m7" finished-at="2021-04-12T15:45:04 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method is-config="true" signature="m8()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:45:04 IST" name="m8" finished-at="2021-04-12T15:45:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+        <test-method is-config="true" signature="m9()[pri:0, instance:com.cjc.MercuryTours@58695725]" started-at="2021-04-12T15:45:04 IST" name="m9" finished-at="2021-04-12T15:45:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m9 -->
+      </class> <!-- com.cjc.MercuryTours -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
